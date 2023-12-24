@@ -5,6 +5,7 @@ Create Kraft with monitoring and unit-test
 3. Unit test with sample Node JS producer & consumer script
 
 Steps: 
+
 ./bin/kafka-server-start ./etc/kafka/server.properties
 ![image](https://github.com/amitsahu07/Setup-Kraft-MacOS/assets/32631010/d4cc332c-1826-440d-81dc-bd006518d296)
 
