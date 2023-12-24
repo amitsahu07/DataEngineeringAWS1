@@ -1,9 +1,9 @@
-# DataEngineeringAWS1
+Project - Create Kraft with monitoring and unit-test.
 
+Create a Kraft node (broker & controller mode) - Confluent Community 7.5.2
 
-sudo yum install java-1.8.0-openjdk
-sudo systemctl start confluent-zookeeper
+Setup open-source monitoring - Kafdrop
+![image](https://github.com/amitsahu07/Setup-Kraft-MacOS/assets/32631010/f54b69d0-4f13-412f-bf73-a78adde6d7da)
 
-sudo sh -c 'echo 1 > /proc/sys/vm/drop_caches'
-#downloads
-ssh -i myKafkaNodePem.pem ec2-user@13.58.2.43 
+Unit test with sample Node JS producer & consumer script - 
+![image](https://github.com/amitsahu07/Setup-Kraft-MacOS/assets/32631010/396ccedd-1723-4b62-a898-ec67730a07e7)
